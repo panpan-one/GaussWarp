@@ -1,0 +1,12 @@
+
+basedir: ".tsdm"
+logdir: "logs"
+modeldir: "models"
+datasetdir: "datasets"
+rawdatadir: "rawdata"
+
+folders:
+  datasets:
+  models:
+  logs:
+  rawdata:
